@@ -1,6 +1,6 @@
 # nextjs-grab-js-files
 
-**How to found _buildManifest.js URL path**
+**How to find _buildManifest.js URL path**
 1. Open Console
 2. Paste next code
 ```
