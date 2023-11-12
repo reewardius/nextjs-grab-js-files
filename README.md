@@ -4,7 +4,7 @@
 1. Open Console
 2. Paste next code
 ```
-# console.log('Full path "_buildManifest.js":', Array.from(document.querySelectorAll('script')).find(script => script.src.includes('_buildManifest.js'))?.src || 'File Not Found.');
+console.log('Full path "_buildManifest.js":', Array.from(document.querySelectorAll('script')).find(script => script.src.includes('_buildManifest.js'))?.src || 'File Not Found.');
 ```
 
 **How to extract JS / JS.MAP files**
