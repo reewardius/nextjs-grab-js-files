@@ -8,7 +8,7 @@ console.log('Full path "_buildManifest.js":', Array.from(document.querySelectorA
 ```
 
 **How to extract JS / JS.MAP files**
-1. Edit 10 line with your own **_buildManifest.js URL path**
+1. Edit 6 line with your own **_buildManifest.js URL path**
 2. Run python script
 3. Find results in result_combined.txt file
 ```
