@@ -1,4 +1,4 @@
-# nextjs-pentest
+# nextjs-grab-js-files
 
 **How to found _buildManifest.js**
 1. Open Console
