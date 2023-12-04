@@ -8,9 +8,8 @@ console.log('Full path "_buildManifest.js":', Array.from(document.querySelectorA
 ```
 
 **How to extract JS / JS.MAP files**
-1. Edit 6 line with your own **_buildManifest.js URL path**
-2. Run python script
+1. Run python script
 ```
-> python next.py
+> python next.py -u https://opensea.io/_next/static/40d453f28b1853bf39f6627ea80f4b3dbd611d7b/_buildManifest.js -o results.txt
+> python next.py -u https://opensea.io/_next/static/40d453f28b1853bf39f6627ea80f4b3dbd611d7b/_buildManifest.js
 ```
-3. Find results in result_combined.txt file
